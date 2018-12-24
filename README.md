@@ -8,7 +8,7 @@ This Java FXML microprogram allows users to reorganize massive amount of files i
 
 ## Configuration
 
-You can add the file extension of your choice by simply typing it inside the array of your choice !
+You can add the file extension of your choice by simply typing it inside the array of your choice inside the Preferences java file located in the demonfolder folder !
 ![picture](/src/Assets/Preferences.png)
 
 ## Copyright 
